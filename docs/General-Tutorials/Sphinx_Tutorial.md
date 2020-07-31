@@ -11,7 +11,7 @@ Sphinx is python based tool that enables generation of documentation. Originally
 Install Sphinx for macOS
 ------------------------
 
-Based on [this tutorial](https://www.sphinx-doc.org/en/master/usage/installation.html).
+Based on [this tutorial](https://https://www.sphinx-doc.org/en/master/usage/installation.html).
 
 We will utilize conda package management system to install Sphinx. If you do not have conda installed, you can follow installation steps [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html).
 
@@ -32,7 +32,7 @@ conda install sphinx
 Install Sphinx for Windows
 ----------------------------
 
-Based on this [tutorial](https://www.sphinx-doc.org/en/master/usage/installation.html).
+Based on this [tutorial](https://https://www.sphinx-doc.org/en/master/usage/installation.html).
 
 Install Python (*if necessary*). *Note you can also use conda to install both python and Sphinx in Windows*.
 
@@ -44,9 +44,9 @@ $ python --version
 Python 3.7.4
 ```
 
-If Python is not installed, you can download from [here](https://www.python.org/downloads/).
+If Python is not installed, you can download from [here](https://https://www.python.org/downloads/).
 
-To install [Sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html), we will use `pip` which is a python package installer.
+To install [Sphinx](https://https://www.sphinx-doc.org/en/master/usage/quickstart.html), we will use `pip` which is a python package installer.
 
 Open `command prompt` for Windows and type the following code:
 
@@ -159,7 +159,7 @@ We can add multiple files to the website in similar manner.
 Embed video on Sphinx site
 ---------------------------
 
-In addition to text files, images and videos can also be embedded. Next, we will embed a talk by Paul Everitt exploring the feature set of Sphinx, hosted on [YouTube](https://www.youtube.com/watch?v=7adnbsj9A4w).
+In addition to text files, images and videos can also be embedded. Next, we will embed a talk by Paul Everitt exploring the feature set of Sphinx, hosted on [YouTube](https://https://www.youtube.com/watch?v=7adnbsj9A4w).
 
 To embed YouTube video, click on `Share` and then `Embed` to obtain the `iframe` code. Accompanying text and the video are added above the `toctree` line in the `index.rst` file as shown:
 
@@ -168,7 +168,7 @@ This talk by Paul Everitt highlights the various functionalities that can be ach
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7adnbsj9A4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://https://www.youtube.com/embed/7adnbsj9A4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
 Save, exit and compile using:
@@ -177,7 +177,7 @@ Save, exit and compile using:
 make html
 ```
 
-The rendered website will now have the embedded video on the landing page. Full set of Sphinx capabilities can be found at the official [Sphinx documentation site](https://www.sphinx-doc.org/en/master/).
+The rendered website will now have the embedded video on the landing page. Full set of Sphinx capabilities can be found at the official [Sphinx documentation site](https://https://www.sphinx-doc.org/en/master/).
 
 Build local Sphinx site
 ------------------------

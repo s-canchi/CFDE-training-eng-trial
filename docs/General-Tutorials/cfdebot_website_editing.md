@@ -31,7 +31,7 @@ General steps for editing CFDE websites with cfde-bots
 
 6. If the checks pass, changes should be automatically merged into the preview branch so you can look at the preview render of the website. Click "Merge pull request" and confirm merge.
 
-7. Merging will re-render on the preview version on the [readthedocs](www.readthedocs.com) website. Login to [readthedocs](www.readthedocs.com), go to website Overview page, and click on "preview" under Versions (*requires admin privileges*). You might need to refresh and wait a few minutes for the changes to show up.
+7. Merging will re-render on the preview version on the [readthedocs](https://www.readthedocs.com) website. Login to [readthedocs](https://www.readthedocs.com), go to website Overview page, and click on "preview" under Versions (*requires admin privileges*). You might need to refresh and wait a few minutes for the changes to show up.
 
 8. To keep those changes, go back to the GitHub repo and click "Compare & pull request" to push "my_branch" to master. This time, request a reviewer for this PR. After approved, merge changes and check that the changes are on the "latest" version of the website!
 

@@ -26,7 +26,7 @@ git clone https://github.com/nih-cfde/play-with-github.git
 ```
 
 !!! note "Repo name"
-    The example repo is called "play-with-github". You can replace the GitHub URL with any other repo of your choice. The `.git` extension designates a [bare repo](http://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/)
+    The example repo is called "play-with-github". You can replace the GitHub URL with any other repo of your choice. The `.git` extension designates a [bare repo](http://https://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/)
 
 Once you have cloned your repos (now called directories on your local
 computer) and want to get started, you need to navigate into the newly created directory and work on a [branch](https://github.com/nih-cfde/organization/blob/master/GitHubUsage.md#definitions).
@@ -155,7 +155,7 @@ Preview website on GitHub branch
 --------------------------------
 
 !!! note "Important"
-    You will require admin privileges on [readthedocs.com](www.readthedocs.com) for previewing website changes from a GitHub repo.
+    You will require admin privileges on [readthedocs.com](https://www.readthedocs.com) for previewing website changes from a GitHub repo.
 
 This tutorial applies to GitHub repos that render as websites. As
 described above, your changes to the website repo must be pushed to a

@@ -6,12 +6,12 @@ title: Rendering a GitHub website locally with MkDocs
 Rendering a GitHub website locally with MkDocs
 ===============================================
 
-MkDocs is a static site generator built for project documentation. It comes with easy to use and customizable themes and features. In this tutorial, we will go over installation of MkDocs, adding content, changing the default theme and hosting the website on [readthedocs.com](readthedocs.com).
+MkDocs is a static site generator built for project documentation. It comes with easy to use and customizable themes and features. In this tutorial, we will go over installation of MkDocs, adding content, changing the default theme and hosting the website on [readthedocs.com](https://www.readthedocs.com).
 
 Install MkDocs using pip
 ------------------------
 
-`pip` is python package manager. For more details on `pip` installation, please visit [this website](https://pip.pypa.io/en/stable/installing/). The instructions to set up MkDocs using `pip` follow the tutorial [here](https://www.mkdocs.org/#installation).
+`pip` is python package manager. For more details on `pip` installation, please visit [this website](https://pip.pypa.io/en/stable/installing/). The instructions to set up MkDocs using `pip` follow the tutorial [here](https://https://www.mkdocs.org/#installation).
 
 !!! note "MkDocs prerequisite"
     Python v3.5 or higher is required. Consider installing inside a `conda` environment with python v3.5 or newer.
@@ -162,9 +162,9 @@ conda install mkdocs-material=5.4.0
 
 Here we specify the latest available version for this theme. The website should automatically update with the new theme.
 
-Options to deploy the generated website are elaborated [here](https://www.mkdocs.org/user-guide/deploying-your-docs/).
+Options to deploy the generated website are elaborated [here](https://https://www.mkdocs.org/user-guide/deploying-your-docs/).
 
-For the website to be hosted on [readthedocs.com](www.readthedocs.com), a text file with instructions to import the `material` theme needs to the added to the main folder of the website. This file contains the following string: `mkdocs-material`.
+For the website to be hosted on [readthedocs.com](https://www.readthedocs.com), a text file with instructions to import the `material` theme needs to the added to the main folder of the website. This file contains the following string: `mkdocs-material`.
 
 Hosting the website on Read the Docs
 -------------------------------------
@@ -172,7 +172,7 @@ Hosting the website on Read the Docs
 !!! note "Read the Docs requirement"
     You need admin and/or owner privileges to host the website.
 
-Visit [www.readthedocs.com](www.readthedocs.com)
+Visit [https://www.readthedocs.com](https://www.readthedocs.com)
 
 After log in, click `import project`. This should take you to a list of GitHub repos.
 

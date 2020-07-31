@@ -26,5 +26,8 @@ markdown_extensions:
     permalink: true
 extra:
   hypothesis: true
+extra_javascript:
+  - javascript/medium-zoom.min.js
+  - javascript/extra.js
 extra_css:
   - stylesheets/extra.css
